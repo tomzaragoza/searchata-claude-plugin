@@ -1,0 +1,13 @@
+{
+  "name": "searchata",
+  "displayName": "Searchata",
+  "version": "0.1.0",
+  "description": "Analyze search performance, prioritize SEO work, and prepare page improvements with your Searchata data.",
+  "author": { "name": "Searchata", "email": "support@searchata.com", "url": "https://searchata.com" },
+  "homepage": "https://searchata.com/docs/connectors",
+  "privacyPolicyUrl": "https://searchata.com/privacy",
+  "icon": "./.claude-plugin/icon.png",
+  "repository": "https://github.com/tomzaragoza/searchata-claude-plugin",
+  "license": "MIT",
+  "keywords": ["seo", "search-console", "bing", "searchata"]
+}

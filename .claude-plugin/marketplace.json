@@ -1,0 +1,8 @@
+{
+  "name": "searchata-plugins",
+  "metadata": { "description": "Searchata search analysis workflows and remote MCP connection for Claude." },
+  "owner": { "name": "Searchata", "email": "support@searchata.com" },
+  "plugins": [
+    { "name": "searchata", "source": "./plugins/searchata", "description": "Search performance, SEO priorities, and page improvement with Searchata." }
+  ]
+}
