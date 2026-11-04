@@ -2,7 +2,7 @@
 
 Searchata connects Claude to search reports, website diagnostics, and SEO workflows. This repository contains the plugin distribution only.
 
-Version 0.1.0 is a release candidate. It passes package validation. Claude account testing and directory review are still pending.
+Version 0.1.1 is a release candidate. It passes package validation. Claude account testing and directory review are still pending.
 
 ## Install in Claude Code
 

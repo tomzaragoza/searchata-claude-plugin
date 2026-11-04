@@ -4,7 +4,7 @@ Use your Searchata data to analyze search performance, find SEO priorities, and 
 
 ## Requirements
 
-Create a [Searchata account](https://searchata.com). Connect Google Search Console or Bing Webmaster Tools for source-specific reports. Searchata data tools require an active trial or paid plan. Discovery and saved content guidelines do not require a paid plan. Claude access and Searchata billing are separate. See [current plans](https://searchata.com/pricing).
+Create a [Searchata account](https://searchata.com) with Google sign-in. Connect Google Search Console before completing the current MCP authorization flow. Connect Bing Webmaster Tools for Bing reports. Searchata data tools require an active trial or paid plan. Once connected, discovery and saved content guidelines do not require a paid plan. Claude access and Searchata billing are separate. See [current plans](https://searchata.com/pricing).
 
 ## Install and connect
 
